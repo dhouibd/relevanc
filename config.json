@@ -1,0 +1,12 @@
+[
+  {
+    "name" : "segmentation scaleway",
+    "config": {
+      "host": "51.15.198.187",
+      "port": 5432,
+      "dbname": "segmentation",
+      "username": "admin",
+      "pwd": "vv7XdPbLpCV3Z2xtcMG2Jg8UkC9SfC4nDhn9JEGg2TR6LDur"
+    }
+  }
+]
